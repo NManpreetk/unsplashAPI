@@ -1,0 +1,63 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+div#article {
+    text-align: center;
+}
+
+body {
+    background-image: url("http://www.ie-wallpapers.com/data/out/238/37151776-wallpaper-gray.jpg")
+}
+
+#main {
+    border: 1px rgb(66, 93, 94) solid;
+    margin: 5px;
+    background-color: lightcyan;
+    border-radius: 50px;
+}
+
+img {
+    border: 9px solid floralwhite;
+    border-style: groove;
+    margin: 5px;
+    box-shadow: 3px 3px darkgreen;
+}
+
+#title {
+    display: inline-block;
+}
+
+p {
+    text-shadow: 0.5px 0.5px midnightblue;
+}
+
+a:hover {
+    background-color: greenyellow;
+}
+
+#searching {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+#search {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 11px;
+}
+
+#inputs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    text-align: center;
+}
